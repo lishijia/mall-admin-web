@@ -35,3 +35,8 @@ export default {
   }
 }
 </script>
+<style>
+  .el-submenu__title i {
+    color: #ffffff;
+  }
+</style>
